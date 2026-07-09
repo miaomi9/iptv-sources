@@ -15,7 +15,7 @@ Sources are from:
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
 - [joevess/IPTV](https://github.com/joevess/IPTV)
-- ~~[Meroser/IPTV](https://github.com/Meroser/IPTV)~~ The project content has been removed by Author
+- [cymz6/AutoIPTV-Hotel](https://github.com/cymz6/AutoIPTV-Hotel)
 
 EPG Sources are from:
 
@@ -38,13 +38,14 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
-| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 82 | - |
-| fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
+| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 82 | ✅ |
+| fanmingming/live itv | [fmml_itv.m3u](/fmml_itv.m3u) <br> [fmml_itv.txt](/txt/fmml_itv.txt) | [List for fanmingming/live itv](/list/fmml_itv.list) | 189 | ✅ |
+| fanmingming/live index | [fmml_index.m3u](/fmml_index.m3u) <br> [fmml_index.txt](/txt/fmml_index.txt) | [List for fanmingming/live index](/list/fmml_index.list) | 94 | ✅ |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 90 | - |
+| cymz6/AutoIPTV-Hotel lives | [cymz6_lives.m3u](/cymz6_lives.m3u) <br> [cymz6_lives.txt](/txt/cymz6_lives.txt) | [List for cymz6/AutoIPTV-Hotel lives](/list/cymz6_lives.list) | 0 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 129 | - |
-| joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 0 | - |
-| joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 0 | - |
-| ~~Meroser/IPTV IPTV~~(Removed) | [m_iptv.m3u](/m_iptv.m3u) <br> [m_iptv.txt](/txt/m_iptv.txt) | [List for ~~Meroser/IPTV IPTV~~(Removed)](/list/m_iptv.list) | update failed | ✅ |
+| joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 0 | ✅ |
+| joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 0 | ✅ |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 11240 | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 144 | - |
 | iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 371 | - |
@@ -66,12 +67,12 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | epg | url | isRollback |
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
-| fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
+| fanmingming/live | [fmml.xml](/epg/fmml.xml) | ✅ |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | ✅ |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | ✅ |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | ✅ |
 
-Updated at **Thu Jul 09 2026 14:35:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 15:34:08 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
@@ -79,8 +80,4 @@ See <https://m3u.ibert.me> to get more.
 
 GPL-3.0 &copy; Herbert He
 
-本项目基于 GPL-3.0 协议开源，但下面的个人或组织不在允许名单目录中。
-
-| 名称      | 链接                           | 原因                                                                                                                             |
-| --------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| vodtv/m3u | <https://github.com/vodtv/m3u> | 违反 MIT 开源协议 "在软件和软件的所有副本中都必须包含以上版权声明和本许可声明。" [Commit](https://github.com/vodtv/m3u/issues/3) |
+本项目基于 GPL-3.0 协议开源。
